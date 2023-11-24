@@ -17,6 +17,10 @@ video::-webkit-media-controls {
   .b_4 {
     scale: 60%;
   }
+  #back{
+    height:150vh;
+  }
+
 }
 #m_1,
 #m_2 {
