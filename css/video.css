@@ -1,0 +1,13 @@
+.imag_1 {
+  position: absolute;
+  z-index: -1;
+  width: 99%;
+  height: 99%;
+  object-fit: cover;
+}
+body {
+  background-color: black;
+}
+video::-webkit-media-controls {
+  display: none !important;
+}
